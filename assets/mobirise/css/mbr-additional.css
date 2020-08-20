@@ -3428,7 +3428,7 @@ section.lazy-placeholder:after {
 .cid-s85UNKYg03 {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #fbafa3;
+  background-image: url("../../../assets/images/desktop-bg-pattern-1920x1080.png");
 }
 .cid-s85UNKYg03 .mbr-section-subtitle {
   color: #767676;
@@ -3486,7 +3486,7 @@ section.lazy-placeholder:after {
 .cid-s86xzP8UHO {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #cccccc;
+  background-color: #fbafa3;
 }
 .cid-s86xzP8UHO h4 {
   text-align: left;
@@ -3527,7 +3527,7 @@ section.lazy-placeholder:after {
 .cid-s86yypTq2f {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/contact-14-1920x1080.png");
+  background-image: url("../../../assets/images/desktop-bg-pattern-2-1920x1080.png");
 }
 .cid-s86yypTq2f h4 {
   text-align: left;
@@ -3565,7 +3565,7 @@ section.lazy-placeholder:after {
 .cid-s86AYzfsGb {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/contact-4-1920x1080.png");
+  background-image: url("../../../assets/images/desktop-bg-pattern-1-1920x1080.png");
 }
 .cid-s86AYzfsGb h4 {
   text-align: left;
@@ -3599,6 +3599,9 @@ section.lazy-placeholder:after {
   .cid-s86AYzfsGb .card-box {
     padding-left: 0;
   }
+}
+.cid-s86AYzfsGb P {
+  text-align: left;
 }
 .cid-s85HOw1Wnt {
   padding-top: 45px;
